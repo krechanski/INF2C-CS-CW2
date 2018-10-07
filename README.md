@@ -1,5 +1,4 @@
 # INF2C-CS-CW2
-Coursework which was focused on simlutating cache and tlb.
 
 Year 2
 
